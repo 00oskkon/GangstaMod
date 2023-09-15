@@ -1,0 +1,6 @@
+displayName = Gangsta mod
+author = Oskarien
+version = 0.8
+modReferences = CalamityMod, ThoriumMod, MagicStorage
+includeSource = true
+sortAfter = CalamityMod, ThoriumMod, MagicStorage
